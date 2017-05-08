@@ -1,0 +1,20 @@
+{
+    "short_name": "test-pwa",
+    "name": "Przykładowa Aplikacja Progressive Web App",
+    "background_color": "#000",
+    "theme_color": "#fff",
+    "icons": [
+        {
+            "src": "images/144x144.jpg",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "images/192x192.jpg",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone"
+}
